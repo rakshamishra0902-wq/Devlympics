@@ -1,0 +1,37 @@
+:root {
+  /* AEGIS AI Industrial-Technical Design Tokens */
+  --bg-app: #111315;
+  --bg-activity: #17191C;
+  --bg-sidebar: #1B1E22;
+  --bg-editor: #111315;
+  --bg-panel: #191C20;
+  --bg-elevated: #22262B;
+  --bg-hover: #262B31;
+  --bg-active: #2C323A;
+
+  /* Dividers & Borders */
+  --border-primary: #2B3036;
+  --border-secondary: #1F2327;
+  --border-active: #38BDF8;
+
+  /* Typography */
+  --text-primary: #E4E7EB;
+  --text-secondary: #969EA8;
+  --text-muted: #6B7280;
+
+  /* Accent & Status */
+  --accent-cyan: #38BDF8;
+  --accent-cyan-subtle: rgba(56, 189, 248, 0.12);
+  --success-green: #4ADE80;
+  --success-green-subtle: rgba(74, 222, 128, 0.12);
+  --warning-amber: #FBBF24;
+  --warning-amber-subtle: rgba(251, 191, 36, 0.12);
+  --error-red: #F87171;
+  --error-red-subtle: rgba(248, 113, 113, 0.12);
+
+  /* Typography scaling */
+  --font-size-status: 11px;
+  --font-size-ui: 13px;
+  --font-size-heading: 20px;
+  --font-size-editor: 14px;
+}
